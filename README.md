@@ -16,9 +16,9 @@ The data set contains the rankings of 650 Unites States colleges along with vari
 
 # Process Follwed
 
-Importing Liberaries, Pandas and Numpy
-Loading_Data - (https://github.com/Numasive/Python-Data-Analysis-Project/files/11139954/ForbesAmericasTopColleges2019.csv)
-Data Cleaning
+Importing Liberaries, Pandas and Numpy /
+Loading_Data - (https://github.com/Numasive/Python-Data-Analysis-Project/files/11139954/ForbesAmericasTopColleges2019.csv) /
+Data Cleaning /
 Data Analysis
 
 A basic project explaing the functions and methods of simple data cleaning and analysis
