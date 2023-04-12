@@ -1,4 +1,4 @@
-# Python data analysisa and cleaning projects
+# Python data analysis and cleaning projects
 
 # Project 1 - Python-Data-Analysis-Project
 Forbes America top college Data cleaning and Analysis
